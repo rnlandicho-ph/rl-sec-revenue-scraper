@@ -356,7 +356,7 @@ latest_8_quarters_revenue.png
 ## Sample Visualization
 
 ```markdown
-![Quarterly Revenue Chart](latest_8_quarters_revenue.png)
+![Quarterly Revenue Chart](./latest_8_quarters_revenue.png)
 ```
 
 The chart visualizes the company's quarterly revenue trend across the latest eight fiscal quarters.
