@@ -355,8 +355,6 @@ latest_8_quarters_revenue.png
 
 ## Sample Visualization
 
-Add the generated chart to the repository and display it here:
-
 ```markdown
 ![Quarterly Revenue Chart](latest_8_quarters_revenue.png)
 ```
